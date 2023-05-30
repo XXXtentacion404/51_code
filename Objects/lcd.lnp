@@ -1,0 +1,5 @@
+".\Objects\STARTUP.obj",
+".\Objects\mian.obj" 
+TO ".\Objects\lcd" 
+
+PRINT(".\Listings\lcd.map")
